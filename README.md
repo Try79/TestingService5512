@@ -1,1 +1,2 @@
-testing testing 123
+# RbxDiscordProxy
+A Discord Proxy server for Roblox usage
